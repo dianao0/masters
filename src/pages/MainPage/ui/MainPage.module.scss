@@ -1,0 +1,29 @@
+  .greet {
+    height: 100%;
+    align-self: self-start;
+    padding-bottom: 10px;
+  }
+
+  .greet_image {
+    height: 180px;    
+    object-fit: cover;
+}
+.image {
+    border-radius: 18px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+  .a {
+    width: 95%;
+    padding-left: 20px;
+    background: var(--light-bg-redesigned);
+  }
+
+  .b {
+    width: 95%;
+    padding: 10px;
+    border-radius: 18px;
+    background-color: #fff;
+  }
